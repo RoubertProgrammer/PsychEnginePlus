@@ -1,5 +1,8 @@
-# Friday Night Funkin' - Psych Engine
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+# Friday Night Funkin' - Psych Engine Plus
+
+This is an engine that fixes some issues with the psych engine, and adding new possibilities for modding like Difficulty, Character Selection For BF ReSkins :), and more!
+
+sEngine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
 Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
@@ -84,3 +87,7 @@ NOTE: This should be used for fixing your character floating or being slightly u
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song on Freeplay by pressing Space once.
+
+## The New Stuff
+* Transparency For A Black Box To Focus On Youre Notes
+* Making That If One Letter Is Selected In The Controls, Then Another One Has The Same Letter, The First One Will Be Null 
